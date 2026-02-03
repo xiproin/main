@@ -34,7 +34,7 @@ header {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('wallpaper_logo_1.png'); /* Placeholder space image */
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('wallpaper_logo_1.jpeg'); /* Placeholder space image */
     background-size: cover;
     background-position: center;
     height: 60vh;
