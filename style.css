@@ -130,3 +130,10 @@ footer {
         font-size: 2rem;
     }
 }
+/* Logo Styling */
+.logo img {
+    height: 50px;       /* Adjust this number to change the size */
+    width: auto;        /* Keeps the image from looking stretched */
+    display: block;
+    margin: 0 auto;     /* Centers the logo */
+}
